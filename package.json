@@ -1,0 +1,23 @@
+{
+  "name": "success-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "klaw": "^3.0.0",
+    "mongoose": "^5.9.28",
+    "node.js": "^0.0.1-security",
+    "path": "^0.12.7",
+    "request-promise-native": "^1.0.8",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

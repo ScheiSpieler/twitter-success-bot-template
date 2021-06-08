@@ -1,0 +1,15 @@
+{  
+    "Twitter":{  
+       // API Key && Secret
+       "consumer_key":"",
+       "consumer_secret":"",
+
+       // Make sure Access Token and Secret have "Read + Write" Perms
+       "access_token":"",
+       "access_token_secret":""
+    },
+    "Discord":{  
+       "token":"",
+       "channel_id":""
+    }
+ }
