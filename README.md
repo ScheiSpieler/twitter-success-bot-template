@@ -92,16 +92,17 @@
     Your code is now ready to be hosted!
 
   - ### Knowledgable
-        Download the code and open it in your IDE.</br></br>
-        Firstly you want to fill in all the information from the twitter developer portal found [here]() in settings.json.</br>
-        This is also where we want to put the discord token and channel id from earlier (see section "Discord" above).</br>
-        We also want to go to .env and paste our discord token in there.
-        Next we can go to index.js and edit the color or text to your liking. (see code comments)
-        After that we can open up the console and run "node ." and "npm init"
-        Now we will install our requirements, to do so run the following commands in the terminal:</br></br>
-            "npm install twit"
-            "npm i discord.js"</br>
-            "npm i request-promise-native"</br>
+       Download the code and open it in your IDE.</br></br>
+       Firstly you want to fill in all the information from the twitter developer portal found [here]() in settings.json.</br>
+       This is also where we want to put the discord token and channel id from earlier (see section "Discord" above).</br>
+       We also want to go to .env and paste our discord token in there.
+       Next we can go to index.js and edit the color or text to your liking. (see code comments)
+       After that we can open up the console and run "node ." and "npm init"
+       Now we will install our requirements, to do so run the following commands in the terminal:
+        
+       "npm install twit"</br>
+       "npm i discord.js"</br>
+       "npm i request-promise-native"</br>
         
      Your code is now ready to be hosted! 
      
