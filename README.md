@@ -156,5 +156,6 @@
   
 - ### Last Step 
   Star my repository if it helped 😎
+  And check out my account for more projects!
 ## Questions:
 If you have any questions feel free to message me over discord: TyIer#0001 or [twitter](https://www.Twitter.com/RaffleBotter).
