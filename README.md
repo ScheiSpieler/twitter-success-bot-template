@@ -84,6 +84,10 @@
     - In here, we want to run two different commands, first we will type "node ." then click enter.
     - After that finishes, we can run "npm init".
     - You will notice we have two new files "package-lock.json" and "package.json"
+    - Now we will install our requirements, to do so run the following commands in the terminal:</br>
+      "npm install twit"</br>
+      "npm i discord.js"</br>
+      "npm i request-promise-native"</br>
     
     Your code is now ready to be hosted!
 
@@ -94,7 +98,11 @@
         We also want to go to .env and paste our discord token in there.
         Next we can go to index.js and edit the color or text to your liking. (see code comments)
         After that we can open up the console and run "node ." and "npm init"
-     
+        Now we will install our requirements, to do so run the following commands in the terminal:</br></br>
+            "npm install twit"
+            "npm i discord.js"</br>
+            "npm i request-promise-native"</br>
+        
      Your code is now ready to be hosted! 
      
 - ### Hosting 
